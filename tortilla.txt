@@ -4,3 +4,5 @@ patata
 cebolla
 sal
 aceite
+pimiento
+ajo
