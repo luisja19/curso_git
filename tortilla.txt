@@ -1,1 +1,6 @@
 ff
+huevo
+patata
+cebolla
+sal
+aceite
