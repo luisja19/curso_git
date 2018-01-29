@@ -8,3 +8,5 @@ pimiento
 ajo
 
 precio por persona 5€
+iva 10%
+5,5€
