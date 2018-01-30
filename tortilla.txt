@@ -1,4 +1,4 @@
-ff
+﻿ff
 huevo
 patata
 cebolla
@@ -8,3 +8,9 @@ pimiento
 ajo
 
 precio por persona 5€
+iva 10%
+5,5€
+
+Precio por comer en la terraza: 355 euros
+
+Descuento por lavar los platos: 1%
