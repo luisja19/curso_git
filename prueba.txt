@@ -1,0 +1,3 @@
+hola.
+Esto es un archivo generado desde la consola git csm.
+
